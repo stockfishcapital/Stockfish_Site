@@ -94,7 +94,7 @@ const Contact = () => {
               <p className="text-blue-100 mb-4">
                 If you own a profitable SME and are considering an exit, we'd love to discuss your options.
               </p>
-              <Button variant="outline" className="border-white text-white hover:bg-white hover:text-blue-900">
+              <Button variant="outline" className="border-white text-blue-900 bg-white hover:bg-blue-50 hover:text-blue-900">
                 Schedule a Confidential Call
               </Button>
             </div>
